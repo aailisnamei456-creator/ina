@@ -1,0 +1,27 @@
+ body{
+    background-color: #eea2db;
+    color : #ec90ec;
+    margin: 0 ;
+ }
+  #header {
+    text-align : center ;
+  }
+
+  #header > div:first-child {
+    background-color: hsl(214, 67%, 76%);
+    color: rgb(221, 110, 110);
+    padding: 30px;
+  }
+  .content {
+    width : 80%;
+    max-width : 800;
+    margin:30px auto;
+    background-color: rgb(196, 236, 122);
+    padding:30px;
+  }
+  .content h2 {
+    color: #00357a;
+    border-bottom: 2px solid 
+
+  }
+
